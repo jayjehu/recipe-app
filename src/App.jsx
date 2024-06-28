@@ -6,9 +6,6 @@ function App() {
     <>
     <Welcome />
     </>
-
-  )
-
-}
+  )}
 
 export default App
